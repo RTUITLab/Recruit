@@ -50,17 +50,16 @@
 # Полезные материалы
 
 ## Движки
-- Unity: https://unity.com/ru
-- Unreal Engine 4: https://www.unrealengine.com
-- CryEngine: https://www.cryengine.com/
-- Babylon.Js: https://www.babylonjs.com/
-- AFrame: https://aframe.io/
+- [Unity](https://unity.com/ru)
+- [Unreal Engine 4](https://www.unrealengine.com)
+- [CryEngine](https://www.cryengine.com/)
+- [Babylon.JS](https://www.babylonjs.com/)
+- [AFrame](https://aframe.io/)
 
 ## Youtube
-- Уроки по UE4 на русском языке: https://www.youtube.com/channel/UCLbkGIcYJxxL0tciH9RVebg
-- Уроки по Unity на русском языке: https://www.youtube.com/watch?v=wiBYx7n6ey4&list=PL0lO_mIqDDFVNOKquWCHh4n-Ird5HRB_1
+- [Уроки по UE4 на русском языке](https://www.youtube.com/channel/UCLbkGIcYJxxL0tciH9RVebg)
+- [Уроки по Unity на русском языке](https://www.youtube.com/watch?v=wiBYx7n6ey4&list=PL0lO_mIqDDFVNOKquWCHh4n-Ird5HRB_1)
 
 ## Игровые модели
-- Free3D: https://free3d.com/ru/
-- Sketchfab: https://sketchfab.com/3d-models/popular
-
+- [Free3D](https://free3d.com/ru/)
+- [Sketchfab](https://sketchfab.com/3d-models/popular)
