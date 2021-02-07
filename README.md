@@ -5,14 +5,14 @@
 
 ## Набор ведется по следующим направлениям:
 
-* `Backend` разработка ([подробно](requirements/back))
-* `Frontend` разработка ([подробно](requirements/front))
-* `Дизайн` ([подробно](requirements/design))
-* Разработка на движке `Unreal Engine 4` ([подробно](requirements/ue4))
-* Разработка на движке `Unity` ([подробно](requirements/unity))
-* Разработка на движках `Babylon.JS/AFrame` ([подробно](requirements/babylonjs_aframe))
-* Разработка под `Android` ([подробно](requirements/android))
-* Разработка под `IOS` ([подробно](requirements/ios))
+* `Backend` разработка ([подробно](requirements/back/README.md))
+* `Frontend` разработка ([подробно](requirements/front/README.md))
+* `Дизайн` ([подробно](requirements/design/README.md))
+* Разработка на движке `Unreal Engine 4` ([подробно](requirements/ue4/README.md))
+* Разработка на движке `Unity` ([подробно](requirements/unity/README.md))
+* Разработка на движках `Babylon.JS/AFrame` ([подробно](requirements/babylonjs_aframe/README.md))
+* Разработка под `Android` ([подробно](requirements/android/README.md))
+* Разработка под `IOS` ([подробно](requirements/ios/README.md))
 
 **Любые** вопросы вы можете задавать в [личные сообщения группы ВК](https://vk.com/rtuitlab).
 
