@@ -31,7 +31,7 @@
 
 ### **Уровень 2** *(до 4 человек)*
 - Усложнения **уровня 1**
-- Сделать небольшой level-дизайн, используя собственные модели, или из различных бесплатных assets, доступные из Epic Store.
+- Сделать небольшой level-дизайн, используя собственные модели, или из различных бесплатных ассетов, доступных в Unreal Engine Marketplace.
 - Создать главное меню, интерфейс игрока с выводом полезных данных (спидометр, время круга и т.д.)
 - Реализация мини-карты трассы
 
@@ -55,4 +55,4 @@
 ## Игровые модели
 - [Free3D](https://free3d.com/ru/)
 - [Sketchfab](https://sketchfab.com/3d-models/popular)
-- [Набор assets для Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - есть бесплатные и платные. Так же можно его найти в Epic Launcher в разлеле Unreal Engine
+- [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/store) - есть бесплатные и платные ассеты, которые можно использовать в своих проектах (плагины, модели, текстуры). Так же можно его найти в Epic Launcher в разлеле Unreal Engine
