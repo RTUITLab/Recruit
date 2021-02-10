@@ -1,5 +1,3 @@
-# ЕЩЕ В РАБОТЕ
-
 # Требования по направлению `Unreal Engine 4 разработка`
 
 ## **Задача:** Написать игру "Гонки".
@@ -41,4 +39,20 @@
 - Усложнения **уровня 2**
 - Кастомизация авто (модель, цвет, характеристики)
 - В проекте должен присутсвовать код на С++. Реализовать PlayerController и Character/Pawn классы на C++
-- 
+
+### **Примечание**
+Если какая то идея не описана в задании, но Вы хотите ее реализовать - дерзайте! (только в пределах разумного)
+
+# Полезные материалы
+
+## Ссылка на движок
+- [Unreal Engine 4](https://www.unrealengine.com)
+
+## Youtube
+- [Уроки по UE4 на русском языке](https://www.youtube.com/channel/UCLbkGIcYJxxL0tciH9RVebg)
+
+
+## Игровые модели
+- [Free3D](https://free3d.com/ru/)
+- [Sketchfab](https://sketchfab.com/3d-models/popular)
+- [Набор assets для Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - есть бесплатные и платные. Так же можно его найти в Epic Launcher в разлеле Unreal Engine
