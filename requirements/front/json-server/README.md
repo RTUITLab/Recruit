@@ -29,10 +29,10 @@
 
 Список пользователей по умолчанию:
 
-| User | Password |
-|------|----------|
-| admin | pa$$word |
-| parker | root666 |
+| User   | Password |
+| ------ | -------- |
+| admin  | pa$$word |
+| parker | root666  |
 
 * Защита методов
 
