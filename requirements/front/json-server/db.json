@@ -53,11 +53,6 @@
       "id": 2,
       "login": "parker",
       "password": "root666"
-    },
-    {
-      "login": "A",
-      "password": "S",
-      "id": 3
     }
   ],
   "tokens": []
