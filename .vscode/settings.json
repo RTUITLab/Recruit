@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "Bearer",
+        "save",
+        "бэкенд",
+        "токеном"
+    ],
+    "cSpell.ignorePaths": [
+        ".vscode/settings.json",
+        "requirements/front/json-server/db.json"
+    ]
+}
