@@ -1,8 +1,7 @@
 {
     "cSpell.words": [
-        "Unity",
-        "билд",
         "Babylon",
+        "Bearer",
         "Blueprint",
         "Boot",
         "Controller",
@@ -15,6 +14,7 @@
         "Sketchfab",
         "Spring",
         "Tube",
+        "Unity",
         "Unreal",
         "Vehicle",
         "WASM",
@@ -28,18 +28,18 @@
         "ассетов",
         "ассеты",
         "билд",
+        "бэкенд",
         "геймдизайнера",
         "геймпада",
+        "кастомизацей",
         "категоризации",
         "кликером",
+        "принтов",
         "тайминги",
+        "токеном",
         "токену",
         "юнитов",
-        "юниты",
-        "Bearer",
-        "save",
-        "бэкенд",
-        "токеном"
+        "юниты"
     ],
     "cSpell.ignorePaths": [
         ".vscode/settings.json",
