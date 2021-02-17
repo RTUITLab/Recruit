@@ -79,13 +79,12 @@ _Желательно_ оформить проекты как [npm](https://www.
 
 
 ## Полезные материалы:
-Данные материалы могут быть вам полезны. Данный список не исчерпывающий.
-## Babylon.JS
+### Babylon.JS
 - [Основной сайт](https://www.babylonjs.com/)
 - [Редактор](http://editor.babylonjs.com/)
 - [Канал разработчиков](https://www.youtube.com/channel/UCyOemMa5EJkIgVavJjSCLKQ)
 
-## A-Frame
+### A-Frame
 - [Основной сайт](https://aframe.io/)
 - Инспектор:
   - [Репозиторий](https://github.com/aframevr/aframe-inspector)
