@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": "newsBTC",
+      "tags": [
+        "business",
+        "bitcoin"
+      ],
+      "author": "Nick Chong",
+      "title": "Bitcoin Sets New All-Time High at $49,400",
+      "description": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,000 range. Bitcoin is moving higher on continued institutional…",
+      "coverImage": "https://www.newsbtc.com/wp-content/uploads/2021/02/ken-cheung-10py7Mvmf1g-unsplash.jpg",
+      "publishedAt": "2021-02-14T07:58:16Z",
+      "content": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,00… [+2028 chars]"
+    },
+    {
+      "id": 2,
+      "source": "newsBTC",
+      "tags": [
+        "business",
+        "bitcoin"
+      ],
+      "author": "Nick Chong",
+      "title": "Bitcoin Sets New All-Time High at $49,400",
+      "description": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,000 range. Bitcoin is moving higher on continued institutional…",
+      "coverImage": "https://www.newsbtc.com/wp-content/uploads/2021/02/ken-cheung-10py7Mvmf1g-unsplash.jpg",
+      "publishedAt": "2021-02-14T07:58:16Z",
+      "content": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,00… [+2028 chars]"
+    },
+    {
+      "id": 3,
+      "source": "newsBTC",
+      "tags": [
+        "business",
+        "bitcoin"
+      ],
+      "author": "Nick Chong",
+      "title": "Bitcoin Sets New All-Time High at $49,400",
+      "description": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,000 range. Bitcoin is moving higher on continued institutional…",
+      "coverImage": "https://www.newsbtc.com/wp-content/uploads/2021/02/ken-cheung-10py7Mvmf1g-unsplash.jpg",
+      "publishedAt": "2021-02-14T07:58:16Z",
+      "content": "Bitcoin just rocketed to a new all-time high at $49,400 despite consolidation in the price of Ethereum. The leading cryptocurrency set this new high after spending most of the past week in the $47,00… [+2028 chars]"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "pa$$word"
+    },
+    {
+      "id": 2,
+      "login": "parker",
+      "password": "root666"
+    }
+  ],
+  "tokens": []
+}
