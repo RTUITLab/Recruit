@@ -36,6 +36,7 @@
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Node.JS (Express)](https://nodejs.org/en/)
 - [Flask](https://flask.palletsprojects.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
 - [Django](https://www.djangoproject.com/)
 
 Базы данных:
