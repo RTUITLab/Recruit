@@ -23,7 +23,6 @@
 * Производительность
 * Доступность
 * Использование Best practices
-* Читаемость кода
 * Оригинальность и цельность идеи
 * Понимание принципов работы использованных технологий
 
@@ -53,6 +52,7 @@
 * [Туториал](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d)
 
 ### Инструменты для разработки
+* [web.dev](https://web.dev/)
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 * [ESLint](https://eslint.org/)
