@@ -51,3 +51,9 @@
 
 * [Документация](https://github.com/typicode/json-server)
 * [Туториал](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d)
+
+### Инструменты для разработки
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+* [ESLint](https://eslint.org/)
+* [БЭМ](https://ru.bem.info/)
