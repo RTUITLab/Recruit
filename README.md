@@ -5,7 +5,7 @@
 ## Набор ведется по следующим направлениям:
 
 * Создание виртуальных приложений (Unity, UE, VR, AR…) ([подробно](requirements/engine/README.md))
-* Design ([подробно](requirements/design/README.md))
+* Product-дизайн ([подробно](requirements/design/README.md))
 * Backend ([подробно](requirements/back/README.md))
 * Frontend ([подробно](requirements/front/README.md))
 * Motion Capture ([подробно](requirements/mocap/README.md))
