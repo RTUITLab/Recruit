@@ -30,7 +30,7 @@
 * VR-очки HTC Vive Pro
 * AR-очки Epson Moverio BT-330
 * AR-очки Epson Moverio BT-35E
-* Смарт-очкит Vuzix Blade
+* Смарт-очки Vuzix Blade
 * MR-очки Microsoft HoloLens
 * Ноутбуки для работы и многое другое
 
